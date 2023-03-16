@@ -1,6 +1,5 @@
 import React from 'react';
 import HornedBeast from './HornedBeast';
-import SelectedBeast from './SelectedBeast';
 import './Main.css'
 
 class Main extends React.Component {
